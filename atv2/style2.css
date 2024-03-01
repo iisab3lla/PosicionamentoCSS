@@ -1,0 +1,37 @@
+body {
+    background-color: lightgray;
+    margin: 0;
+    padding: 0;
+}
+
+.box1 {
+    background-color: #8E1541;
+    float: left;
+    width: 250px;
+    height: 250px;
+}
+
+.box2 {
+    background-color: #8E1541;
+    float: right;
+    width: 250px;
+    height: 250px;
+}
+
+.box3 {
+    background-color: #8E1541;;
+    width: 250px;
+    height: 250px;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+}
+
+.box4 {
+    background-color: #8E1541;;
+    width: 250px;
+    height: 250px;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}

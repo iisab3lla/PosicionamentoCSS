@@ -1,0 +1,50 @@
+body {
+    background-color: lightgrey;
+    margin: 0;
+    padding: 0;
+}
+
+.azul {
+    background-color: blue;
+    position: fixed;
+    top: 200px;
+    left: 680px;
+    height: 550px;
+    width: 550px; 
+}
+
+.vermelho {
+    background-color: red;
+    position: fixed;
+    top: 280px;
+    left: 751px;
+    width: 400px;
+    height: 400px;
+}
+
+.preto {
+    background-color: black;
+    position: fixed;
+    top: 345px;
+    left: 808px;
+    width: 280px;
+    height: 280px;
+}
+
+.verde {
+    background-color: green;
+    position: fixed;
+    top: 407px;
+    left: 865px;
+    width: 160px;
+    height: 160px;
+}
+
+.amarelo {
+    background-color: yellow;
+    position: fixed;
+    top: 454px;
+    left: 910px;
+    width: 70px;
+    height: 70px;
+}
